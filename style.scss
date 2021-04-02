@@ -1,0 +1,8 @@
+$bg: red;
+
+html, body {
+    background-color: lighten($bg, 30%);
+}
+h1 {
+    color: green
+}
